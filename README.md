@@ -1,4 +1,7 @@
 # NFC based attendance 
-![](images/login.jpg) 
-![](images/home.jpg)
-![](images/process.jpg)
+NFC based attendance system made in flutter using firebase.
+
+<img src= images/login.jpg height=500>
+<img src= images/home.jpg height=500>
+<img src= images/process.jpg height=500>
+
